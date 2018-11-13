@@ -1,3 +1,12 @@
+--- BEGIN LICENSE KEY ---
+VErpepLezNP0xt383CQz43LYV8Q6VHkDlLusjClOAaTA6iqdAVSXgKDzH
+rAzBBuMSP388G9DwNwK0mSlSf6MMvKwv9X6ifB9NXkFI-yhSKe35vk6TN
+r6q6Ih08wIa6rxoaTrKwiJQaqg7tvvE46qCyRNr+hAQyR0k0C9tKU4jke
+kSn-UbZs9HrYW6wuvvMrg6oMz3lsjzkfrTxbtS0YguB2KE8q7IlKUWu7X
+0wusjjKvmRn5s3Kz+gmycL8mXlEUa-5ZXdZBISbKP4JSL-VOcgZYY8lxu
+f3clex3A7nrBHkFAPkCMuXGugr0YrlbN9593ACO4MvOj3BWJy94c2vBA+
+--- END LICENSE KEY -----
+
 # awesome-itcast
 传智播客已经其他资源整合，很多是亲自看过的，鉴于网上很多人需要，并找不到资源，建议大家共享，可以合并到到这里，如果地址不在了，提醒我重新更新
 百度网盘分享，建议使用Pandownload下载
